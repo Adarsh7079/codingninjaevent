@@ -1,0 +1,130 @@
+
+  .contentcard{
+    padding: 16px;
+    box-sizing: border-box;
+  }
+   mat-card{
+    width: 600px;
+    height: 550px;
+    float: left;
+
+  }
+  .imgcard
+  {
+    margin: 0;
+    padding: 0%;
+    width: 100%;
+    display: block;
+    
+  }
+ .upcomingdetails ul li 
+{
+    text-decoration: none;
+    list-style: none;
+    color: #ede7e7;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 10vh;
+    margin-right: 0%;
+    margin-right: 1vb;
+    font-family: sans-serif;
+  
+    
+}
+
+.upcomingdetails ul li a:hover
+{
+  color: #fb813e;
+}
+.upcomingdetails ul li a{
+    text-decoration: none;
+    color: #9e9e9e;;
+}
+.contentcard
+{
+    height: 150vh;
+    width: 70%;
+    /* background-color: #fb813e; */
+    float:left;
+}
+   i {
+    color: rgb(171, 175, 178);
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+    list-style: none;
+    text-indent: 100px;
+    
+
+  }
+  .first{
+    color: rgb(171, 175, 178);
+  }
+  .second{
+    margin-left: 100px;
+    color: rgb(171, 175, 178);
+  }
+  .third{
+    margin-left: 10px;
+    color: rgb(171, 175, 178);
+  }
+  .datafirst,.datasecond,.datathird
+  {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .datasecond
+  {
+    margin-left: 19px;
+  }
+  .datathird
+  {
+    margin-left: 63px;
+  }
+  .short-description
+  {
+    color: rgb(114, 116, 117);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+  }
+  .filter{
+    color: rgb(114, 116, 117);
+    display: inline-block;
+  }
+  .coding,.placement{
+    margin-left: 15px;
+  }
+  a{
+    text-decoration: none;
+    color: rgb(114, 116, 117);
+    font-size: 20px;
+  }
+  button{
+    border-radius: 5px;
+    margin: 5px;
+  }
+  .reg{
+    background-color:#F28C1D;
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    color: aliceblue;
+    font-family:sans-serif;
+    margin-left: 400px;
+  }
+ .mat-elevation-z1 img
+ {
+  width: 50vb;
+ }
+ .mat-elevation-z2 .second{
+  margin-left: 135px;
+ }
+ .mat-elevation-z3 .second
+ {
+  margin-left: 125px;
+ }
+ .mat-elevation-z5 .second
+ {
+  margin-left: 125px;
+ }
+ 
